@@ -27,13 +27,4 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Unive
 
 <br/>
 
-### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-lucasvsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-presents.vercel.app/api/stats?username=dev-lucasvsc&theme=tokyonight" alt="GitHub Presents" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lucasvsc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
