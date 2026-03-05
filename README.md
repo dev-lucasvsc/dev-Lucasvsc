@@ -7,8 +7,10 @@ Olá, eu sou o Lucas Vasconcelos Pessoa de Oliveira! Sou de Brasilia - DF e tenh
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Unieuro (Previsão de formatura: 12/2026). Sou um desenvolvedor apaixonado por resolver problemas através do código, com foco em soluções eficientes e escaláveis.
 
-📫 Como me encontrar: "[Meu LinkedIn](www.linkedin.com/in/dev-lucas-vasconcelos)", "[Meu Email](lucasvscxl@gmmail.com)" e "[Meu Instagram](https://www.instagram.com/lucasxl.9?igsh=MW52NGNvcThldTJzMg==).
-
+📫 Como me encontrar: 
+- [Meu LinkedIn](https://www.linkedin.com/in/dev-lucas-vasconcelos)
+- [Meu Email](mailto:lucasvscxl@gmmail.com)
+- [Meu Instagram](https://www.instagram.com/lucasxl.9?igsh=MW52NGNvcThldTJzMg==)
 ---
 
 ### 🤖 Linguagens e Tecnologias
