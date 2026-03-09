@@ -9,7 +9,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Unive
 
 📫 Como me encontrar: 
 - [Meu LinkedIn](https://www.linkedin.com/in/dev-lucas-vasconcelos)
-- [Meu Email](mailto:lucasvscxl@gmmail.com)
+- [Meu Email](mailto:lucasvscxl@gmail.com)
 - [Meu Instagram](https://www.instagram.com/lucasxl.9?igsh=MW52NGNvcThldTJzMg==)
 ---
 
