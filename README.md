@@ -2,10 +2,15 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, eu sou o Lucas Vasconcelos Pessoa de Oliveira! Sou de Brasilia - DF e tenho 20 anos.👋
+Olá, eu sou o Lucas Vasconcelos Pessoa de Oliveira! Sou de Águas Lindas - GO e tenho 20 anos.👋
 
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Unieuro (Previsão de formatura: 12/2026). Sou um desenvolvedor apaixonado por resolver problemas através do código, com foco em soluções eficientes e escaláveis.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Unieuro (Previsão de formatura: 12/2026). 
+
+Desenvolvedor Full Stack com 20 anos, focado em backend, automação de processos e construção de sistemas escaláveis. Tenho base sólida em lógica de programação, estruturas de dados e programação orientada a objetos, aplicadas em projetos acadêmicos e profissionais reais.
+Trabalho com Java (Spring Boot), Python (Django), React e PostgreSQL, e aplico metodologias ágeis no desenvolvimento de sistemas com arquitetura limpa e APIs RESTful. Tenho experiência prática com RPA (Robotic Process Automation) aplicado ao ambiente fiscal corporativo, e desenvolvo projetos que vão de sistemas hospitalares completos a assistentes virtuais com IA local.
+Atualmente estagiando na Fábrica de Software da Unieuro como desenvolvedor backend e banco de dados, consolidando conhecimentos em engenharia de software, engenharia de requisitos e computação paralela e distribuída.]
+
 
 📫 Como me encontrar: 
 - [Meu LinkedIn](https://www.linkedin.com/in/dev-lucas-vasconcelos)
