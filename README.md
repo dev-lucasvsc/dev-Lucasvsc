@@ -40,8 +40,7 @@ Construo sistemas backend, automações e soluções com IA aplicada.
 ## 📊 GitHub
 
 <div align="center">
-  <img height="180em" src="./profile-summary-card-output/tokyonight/0-profile-details.svg"/>
-  <img height="180em" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+  <img height="200em" src="./profile-summary-card-output/TEMA/2-most-commit-language.svg"/>
 </div>
 
 ## 📫 Contato
