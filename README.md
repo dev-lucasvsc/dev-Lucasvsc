@@ -1,40 +1,49 @@
-# 👩🏻‍💻 Lucas Vasconcelos
+# Lucas Vasconcelos
 
-**`Desenvolvedor FullStack`**
+**Desenvolvedor Backend | Java · Spring Boot · Python · PostgreSQL**
 
+Sou de Águas Lindas de Goiás - GO, tenho 21 anos e me formo em Análise e Desenvolvimento de Sistemas (Unieuro) em dezembro de 2026.
+Construo sistemas backend, automações e soluções com IA aplicada.
 
-
-Olá, eu sou o Lucas Vasconcelos Pessoa de Oliveira! Sou de Águas Lindas - GO e tenho 20 anos.👋
-
-
-🧠 Sobre mim
-- Dev Full Stack focado em backend e automação
-- Estagiário na Fábrica de Software da Unieuro
-- Experiência real com RPA em ambiente fiscal corporativo
-- Construindo sistemas com Java, Python, React e PostgreSQL
-
-🚀 No que estou focando agora
-- Arquitetura de sistemas escaláveis
-- IA aplicada (LLMs, agentes, automação inteligente)
+📌 **Aberto a oportunidades como Desenvolvedor Backend Júnior / Estágio.**
 
 ---
+
+## 💼 Experiência
+
+- **Fábrica de Software Unieuro** (fev–jul 2026): desenvolvimento backend e banco de dados
+- **RPA em ambiente fiscal corporativo:** automação de processos com foco em redução de trabalho manual
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [Sexta-Feira](link) | Assistente de IA local com dupla arquitetura de LLMs e detecção de wake word offline | Python |
+| [Análise Fiscal Distribuída](link) | Processador de notas fiscais com multiprocessing e otimização de desempenho | Python |
+| [Sistema Hospitalar](link) | Gestão hospitalar com análise de concorrência | Java, Spring Boot |
+| [UniTinder](link) | Plataforma de match de estágios | TypeScript, React, node.js |
+
+## 🛠️ Stack
+
+**Backend:** Java, Spring Boot, Python, Node.js, TypeScript
+
+**Frontend:** React, TypeScript
+
+**Dados:** PostgreSQL
+
+**Ferramentas:** Git, Docker
+
+![Backend](https://skillicons.dev/icons?i=java,spring,python,nodejs,ts)
+![Frontend](https://skillicons.dev/icons?i=react,ts)
+![Dados](https://skillicons.dev/icons?i=postgres)
+
+## 📊 GitHub
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats-six-indol-58.vercel.app/api?username=dev-lucasvsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats-six-indol-58.vercel.app/api/top-langs/?username=dev-lucasvsc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="./profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+  <img height="180em" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 </div>
 
----
+## 📫 Contato
 
-📫 Como me encontrar: 
-- [Meu LinkedIn](https://www.linkedin.com/in/dev-lucas-vasconcelos)
-- [Meu Email](mailto:lucasvscxl@gmail.com)
-- [Meu Instagram](https://www.instagram.com/lucasxl.9?igsh=MW52NGNvcThldTJzMg==)
----
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/dev-lucas-vasconcelos) · [E-mail](mailto:lucasvscxl@gmail.com)
